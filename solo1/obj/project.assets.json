@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\solo1\\solo1.csproj",
+      "projectUniqueName": "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\solo1\\solo1.csproj",
       "projectName": "solo1",
-      "projectPath": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\solo1\\solo1.csproj",
+      "projectPath": "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\solo1\\solo1.csproj",
       "packagesPath": "C:\\Users\\mckad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\solo1\\obj\\",
+      "outputPath": "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\solo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mckad\\AppData\\Roaming\\NuGet\\NuGet.Config"
