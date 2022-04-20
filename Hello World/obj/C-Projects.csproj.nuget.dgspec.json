@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mckad\\Documents\\Repo\\C-Projects\\C-Projects.csproj": {}
+    "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mckad\\Documents\\Repo\\C-Projects\\C-Projects.csproj": {
+    "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mckad\\Documents\\Repo\\C-Projects\\C-Projects.csproj",
+        "projectUniqueName": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj",
         "projectName": "C-Projects",
-        "projectPath": "C:\\Users\\mckad\\Documents\\Repo\\C-Projects\\C-Projects.csproj",
+        "projectPath": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj",
         "packagesPath": "C:\\Users\\mckad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mckad\\Documents\\Repo\\C-Projects\\obj\\",
+        "outputPath": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mckad\\AppData\\Roaming\\NuGet\\NuGet.Config"
