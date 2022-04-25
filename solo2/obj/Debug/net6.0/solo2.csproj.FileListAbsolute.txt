@@ -1,0 +1,15 @@
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\bin\Debug\net6.0\solo2.exe
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\bin\Debug\net6.0\solo2.deps.json
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\bin\Debug\net6.0\solo2.runtimeconfig.json
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\bin\Debug\net6.0\solo2.dll
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\bin\Debug\net6.0\solo2.pdb
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.csproj.AssemblyReference.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.AssemblyInfoInputs.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.AssemblyInfo.cs
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.csproj.CoreCompileInputs.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.dll
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\refint\solo2.dll
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.pdb
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\solo2.genruntimeconfig.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo2\obj\Debug\net6.0\ref\solo2.dll
