@@ -1,0 +1,15 @@
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.csproj.AssemblyReference.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.AssemblyInfoInputs.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.AssemblyInfo.cs
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.csproj.CoreCompileInputs.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\bin\Debug\net6.0\solo4.exe
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\bin\Debug\net6.0\solo4.deps.json
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\bin\Debug\net6.0\solo4.runtimeconfig.json
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\bin\Debug\net6.0\solo4.dll
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\bin\Debug\net6.0\solo4.pdb
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.dll
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\refint\solo4.dll
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.pdb
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\solo4.genruntimeconfig.cache
+C:\Users\mckad\Documents\Programming\C-Projects\solo4\obj\Debug\net6.0\ref\solo4.dll
