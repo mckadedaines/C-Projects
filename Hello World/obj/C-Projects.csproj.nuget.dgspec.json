@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj": {}
+    "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\Hello World\\C-Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj": {
+    "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\Hello World\\C-Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj",
+        "projectUniqueName": "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\Hello World\\C-Projects.csproj",
         "projectName": "C-Projects",
-        "projectPath": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\C-Projects.csproj",
+        "projectPath": "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\Hello World\\C-Projects.csproj",
         "packagesPath": "C:\\Users\\mckad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mckad\\Documents\\Programming\\C-Projects\\Hello World\\obj\\",
+        "outputPath": "C:\\Users\\mckad\\OneDrive\\Documents\\Programing\\C-Projects\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mckad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mckad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
