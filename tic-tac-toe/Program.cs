@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading;
+using System;
 
 Console.WriteLine("Welcome to Tic-Tac-Toe!");
 
