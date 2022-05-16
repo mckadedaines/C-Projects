@@ -1,0 +1,15 @@
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\bin\Debug\net6.0\high-low.exe
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\bin\Debug\net6.0\high-low.deps.json
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\bin\Debug\net6.0\high-low.runtimeconfig.json
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\bin\Debug\net6.0\high-low.dll
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\bin\Debug\net6.0\high-low.pdb
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.csproj.AssemblyReference.cache
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.AssemblyInfoInputs.cache
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.AssemblyInfo.cs
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.csproj.CoreCompileInputs.cache
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.dll
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\refint\high-low.dll
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.pdb
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\high-low.genruntimeconfig.cache
+C:\Users\mckad\Documents\Programming\C-Projects\high-low\obj\Debug\net6.0\ref\high-low.dll
