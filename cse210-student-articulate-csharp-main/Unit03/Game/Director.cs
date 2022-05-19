@@ -40,6 +40,13 @@ namespace Unit03.Game
         {
             terminalService.WriteText(hider.location.ToString());
             int location = terminalService.ReadNumber("\nEnter a location [1-1000]: ");
+            if(location >0 && location < 1001){
+                seeker.MoveLocation(location);
+            }
+            else {
+                terminalService.WriteText("Please select a valid number (0-1000)");
+                GetInputs();
+            }
             seeker.MoveLocation(location);
         }
 
