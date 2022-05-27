@@ -12,7 +12,7 @@ namespace Parachut {
         {
             if(wrong == 0)
             {
-                Console.WriteLine("\n ---");
+                Console.WriteLine("\n ___");
                 Console.WriteLine("/   \\");
                 Console.WriteLine(" ---");
                 Console.WriteLine("\\   /");
