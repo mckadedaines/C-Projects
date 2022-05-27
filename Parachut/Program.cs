@@ -12,59 +12,87 @@ namespace Parachut {
         {
             if(wrong == 0)
             {
-               Console.WriteLine("\n+---+");
-               Console.WriteLine("    |");
-               Console.WriteLine("    |");
-               Console.WriteLine("    |");
-               Console.WriteLine("   ===");
+                Console.WriteLine("\n ---");
+                Console.WriteLine("/   \\");
+                Console.WriteLine(" ---");
+                Console.WriteLine("\\   /");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
             else if(wrong == 1)
             {
-                Console.WriteLine("\n+---+");
-                Console.WriteLine("O   |");
-                Console.WriteLine("    |");
-                Console.WriteLine("    |");
-                Console.WriteLine("   ===");
+                Console.WriteLine("\n");
+                Console.WriteLine("/   \\");
+                Console.WriteLine(" ---");
+                Console.WriteLine("\\   /");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
             else if(wrong == 2)
             {
-                Console.WriteLine("\n+---+");
-                Console.WriteLine("O   |");
-                Console.WriteLine("|   |");
-                Console.WriteLine("    |");
-                Console.WriteLine("   ===");
+                Console.WriteLine("\n");
+                Console.WriteLine("    \\");
+                Console.WriteLine(" ---");
+                Console.WriteLine("\\   /");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
             else if(wrong == 3)
             {
-                Console.WriteLine("\n+---+");
-                Console.WriteLine(" O  |");
-                Console.WriteLine("/|  |");
-                Console.WriteLine("    |");
-                Console.WriteLine("   ===");
+                Console.WriteLine("\n");
+                Console.WriteLine(" ---");
+                Console.WriteLine("\\   /");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
             else if(wrong == 4)
             {
-                Console.WriteLine("\n+---+");
-                Console.WriteLine(" O  |");
-                Console.WriteLine("/|\\ |");
-                Console.WriteLine("    |");
-                Console.WriteLine("   ===");
+                Console.WriteLine("\n");
+                Console.WriteLine("\\   /");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
             else if(wrong == 5)
             {
-                Console.WriteLine("\n+---+");
-                Console.WriteLine(" O  |");
-                Console.WriteLine("/|\\ |");
-                Console.WriteLine("/   |");
-                Console.WriteLine("   ===");
+                Console.WriteLine("\n");
+                Console.WriteLine("    /");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
             else if(wrong == 6)
             {
-                Console.WriteLine("\n+---+");
-                Console.WriteLine(" O  |");
-                Console.WriteLine("/|\\ |");
-                Console.WriteLine("/ \\ |");
-                Console.WriteLine("   ===");
+                Console.WriteLine("\n");
+                Console.WriteLine(" \\ /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
+            }
+            else if(wrong == 7)
+            {
+                Console.WriteLine("\n");
+                Console.WriteLine("   /");
+                Console.WriteLine("  O");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
+            }
+            else if(wrong == 8)
+            {
+                Console.WriteLine("\n");
+                Console.WriteLine("  X");
+                Console.WriteLine(" /|\\");
+                Console.WriteLine(" / \\");
             }
         }
 
@@ -119,7 +147,7 @@ namespace Parachut {
             List<char> currentLettersGuessed = new List<char>();
             int currentLettersRight = 0;
 
-            while(amountOfTimesWrong != 6 && currentLettersRight != lengthOfWordToGuess)
+            while(amountOfTimesWrong != 8 && currentLettersRight != lengthOfWordToGuess)
             {
                 Console.Write("\nLetters guessed so far: ");
                 foreach(char letter in currentLettersGuessed)

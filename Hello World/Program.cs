@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("\n ---");
+Console.WriteLine("/   \\");
+Console.WriteLine(" ---");
+Console.WriteLine("\\   /");
+Console.WriteLine(" \\ /");
+Console.WriteLine("  O");
+Console.WriteLine(" /|\\");
+Console.WriteLine(" / \\");
