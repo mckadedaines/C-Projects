@@ -11,17 +11,23 @@ namespace Unit04.Game.Casting
         /// The responsibility of an Artifact is to provide a message about itself.
         /// </para>
         /// </summary>
-
+        public class Artifact : Actor {
+            private string message = "";
+        
 
     // 2) Create the class constructor. Use the following method comment.
-        
+        public Artifact()
+        {
+        }
         /// <summary>
         /// Constructs a new instance of Artifact.
         /// </summary>
        
 
     // 3) Create the GetMessage() method. Use the following method comment.
-        
+        public string GetMessage(){
+            return message;
+        }
         /// <summary>
         /// Gets the artifact's message.
         /// </summary>
@@ -29,10 +35,12 @@ namespace Unit04.Game.Casting
         
 
     // 4) Create the SetMessage(string message) method. Use the following method comment.
-        
+        public void SetMessage(string message){
+            this.message = message;
+        }
         /// <summary>
         /// Sets the artifact's message to the given value.
         /// </summary>
         /// <param name="message">The given message.</param>
-    
+    }
 }
